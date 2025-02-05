@@ -38,7 +38,7 @@
 
 ## 📫 Contato  
 
-📧 **Email**: lukasalbuquerque@example.com  
+📸 **Instagram**: [Lucas Albuquerque]([https://www.instagram.com/in/LukasAlbkk/](https://www.instagram.com/lucasalbuquerque_21/))  
 💼 **LinkedIn**: [Lucas Albuquerque](https://www.linkedin.com/in/LukasAlbkk/)  
 📂 **GitHub**: [LukasAlbkk](https://github.com/LukasAlbkk)  
 
