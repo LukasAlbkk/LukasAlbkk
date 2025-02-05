@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Lukas Albuquerque!
+# 👋 Olá! Eu sou o Lucas Albuquerque!
 
 🎓 **Estudante de Ciência da Computação na UFMG**  
 💡 Apaixonado por tecnologia, desenvolvimento web e ciência de dados  
